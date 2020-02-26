@@ -6,8 +6,10 @@ Murphy et al (In Review). Intact Auditory Cortical Cross-Frequency Coupling in E
 
 AUTHORS:
 Nicholas Murphy*, Nithya Ramakrishnan*, Christopher P. Walker, Nicola R. Polizzotto, Raymond Y. Cho
+
 * Authors contributed equally to the manuscript 
-1Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, TX
-2Psychiatry and Behavioral Sciences, University of Texas Health Science Center at Houston, TX 
-3Michael E. DeBakey VA Medical Center, Houston, TX 
+
+Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, TX
+Psychiatry and Behavioral Sciences, University of Texas Health Science Center at Houston, TX 
+Michael E. DeBakey VA Medical Center, Houston, TX 
 
